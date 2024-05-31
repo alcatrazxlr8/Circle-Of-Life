@@ -22,7 +22,7 @@ The environment is a graph consisting of 50 nodes, connected in a large circle. 
 
 #### Complete Information Setting
 
-1. **Agent 1**: Moves based on the following priority:
+**Agent 1**: Moves based on the following priority:
    - Closer to the Prey and farther from the Predator.
    - Closer to the Prey and not closer to the Predator.
    - Not farther from the Prey and farther from the Predator.
@@ -31,22 +31,25 @@ The environment is a graph consisting of 50 nodes, connected in a large circle. 
    - Not closer to the Predator.
    - Stays still as a last resort.
 
-2. **Agent 2**: Custom strategy designed to outperform Agent 1.
+**Agent 2**: Custom strategy designed to outperform Agent 1.
 
 #### Partial Prey Information Setting
 
-1. **Agent 3**: Surveys the node with the highest probability of containing the Prey and moves based on updated probabilities.
-2. **Agent 4**: Custom strategy designed to outperform Agent 3.
+**Agent 3**: Surveys the node with the highest probability of containing the Prey and moves based on updated probabilities.
+
+**Agent 4**: Custom strategy designed to outperform Agent 3.
 
 #### Partial Predator Information Setting
 
-1. **Agent 5**: Surveys the node with the highest probability of containing the Predator and moves based on updated probabilities.
-2. **Agent 6**: Custom strategy designed to outperform Agent 5.
+**Agent 5**: Surveys the node with the highest probability of containing the Predator and moves based on updated probabilities.
+
+**Agent 6**: Custom strategy designed to outperform Agent 5.
 
 #### Combined Partial Information Setting
 
-1. **Agent 7**: Surveys based on the highest probability of the Predator or Prey, updates probabilities, and moves accordingly.
-2. **Agent 8**: Custom strategy designed to outperform Agent 7.
+**Agent 7**: Surveys based on the highest probability of the Predator or Prey, updates probabilities, and moves accordingly.
+
+**Agent 8**: Custom strategy designed to outperform Agent 7.
 
 ## Analysis
 
