@@ -67,7 +67,7 @@ The performance of each agent strategy was analyzed through simulations. Key met
 
 ## Usage
 
-To run the project, open the provided Jupyter Notebook (`The_Circle_of_Life.ipynb`) in an appropriate environment (e.g., Jupyter Lab, Google Colab). The notebook includes detailed comments and explanations for implementation and experimentation.
+To run the project, open the provided Jupyter Notebook (`<.ipynb>`) in an appropriate environment (e.g., Jupyter Lab, Google Colab). The notebook includes detailed comments and explanations for implementation and experimentation.
 
 ### Requirements
 
@@ -79,12 +79,12 @@ To run the project, open the provided Jupyter Notebook (`The_Circle_of_Life.ipyn
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/The_Circle_of_Life.git
+   git clone https://github.com/alcatraxlr8/Circle_of_Life.git
    cd The_Circle_of_Life
    ```
 2. Open the Jupyter Notebook.
    ```bash
-   jupyter notebook The_Circle_of_Life.ipynb
+   jupyter notebook <.ipynb>
    ```
 3. Follow the instructions in the notebook to run the simulations and analyze the results.
 
