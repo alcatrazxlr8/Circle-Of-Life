@@ -92,11 +92,3 @@ To run the project, open the provided Jupyter Notebook (`<.ipynb>`) in an approp
 
 This project explores the complexities of decision-making in uncertain environments. By comparing different agent strategies, it provides insights into the effectiveness of various probabilistic models and decision-making algorithms.
 
-## Acknowledgements
-
-- Rutgers University, Computer Science Department
-- Course Instructor and Teaching Assistants
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
