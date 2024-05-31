@@ -1,6 +1,5 @@
 # Circle Of Life
-
-# The Circle of Life - README
+Developing and analyzing probabilistic models for decision-making in a dynamic environment where an agent pursues a prey while evading a predator.
 
 ## Overview
 
